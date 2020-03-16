@@ -6,6 +6,7 @@ Below is a list of resources for learning about companies, roles, and cybersecur
 **General Information & Advice:**
 
 - [Advanced Exploration: Cyber Security Careers](https://www.inspiredcareers.org/browse-careers/cyber-security/) Descriptions of 87 jobs in cybersecurity - Entry, Mid, Senior 
+- [List of 87 cybersecurity job titles](https://drive.google.com/file/d/1l9dHeRuj-hxR6hYx6YYc-vxev0NMpHYJ/view?usp=sharing)
 - [Explore opportunities](https://www.inspiredcareers.org/browse-careers/?pageLayout=deluxe) 
 - [How to Break Into Cybersecurity - Learn from cybersecurity experts and professionals and discover how they got their break Testimonials](https://breakingintocybersecurity.com/) 
 - [How to Break Into Cybersecurity Podcast](https://www.crowdcast.io/e/breaking-into-2/15)
